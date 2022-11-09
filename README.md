@@ -4,7 +4,7 @@ Waseem Alame
 <p align="center">
   waseemalame@gmail.com
 </p>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/waseemalame/">
   <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
 </a>
@@ -16,8 +16,9 @@ Resume
 <a href="https://waseemalame.github.io/">
 Portfolio
 </a>
+</p>
 
-## About Me
+<h2 align="center">About Me</h2>
 My name, Waseem, is easier to pronounce than it seems; it sounds like ‘what seems to be’ without the ‘t’. I am passionate about software technology rapidly advancing and requiring constant research. As an undergrad, I learned how to design digital/analog circuits, and power systems with renewable energy. Shortly after graduating, I felt that I was missing fundamental software concepts, and began self-teaching basic data structures and web development using Freecodecamp and other resources.
 
 I attended an intense 24-week coding program at App Academy; a program that has less than 3% acceptance rate and over 1000 hours of software development training. Every day we spent about 10 hours learning JavaScript, Python and a variety of other tools in order to become full-stack developers. Over half of each day was dedicated to pair programming small projects or coding challenges in order to apply what we had learned.
