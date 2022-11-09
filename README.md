@@ -25,7 +25,7 @@ I attended an intense 24-week coding program at App Academy; a program that has 
 
 At the conclusion of the program, I developed three full stack applications from scratch using varying technologies. My most recent project, PhasedBook, is a full stack HTTPS-secured “pixel-perfect” implementation of Facebook where users can create posts, likes, friends and messages. The coolest feature was the Live message chat which was handled using Socket.IO, a form of WebSockets, creating an open channel between the two users’ browsers and the server.
 
-I am currently proficient Javascript, Python, Express, Flask, SQL, PostgreSQL, SQLalchemy, HTML5, CCS3, and React / Redux. I have extensively used Git, Github, AWS S3. In addition to my use of technologies, I have been involved in multiple AGILE environments developing applications through pair programming.
+I am currently proficient in Javascript, Python, Express, Flask, SQL, PostgreSQL, SQLalchemy, HTML5, CCS3, and React / Redux. I have extensively used Git, Github, AWS S3. In addition to my use of technologies, I have been involved in multiple AGILE environments developing applications through pair programming.
 
 If you are looking for a passionate software engineer, send me an email or give me call and I would be happy to speak with you.
 
