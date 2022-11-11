@@ -20,13 +20,13 @@ Portfolio
 
 <h2 align="center">About Me</h2>
 My name, Waseem, is easier to pronounce than it seems; it sounds like ‘what seems to be’ without the ‘t’. I am passionate about software technology rapidly advancing and requiring constant research. As an undergrad, I learned how to design digital/analog circuits, and power systems with renewable energy. Shortly after graduating, I felt that I was missing fundamental software concepts, and began self-teaching basic data structures and web development using Freecodecamp and other resources.
-
+<br></br>
 I attended an intense 24-week coding program at App Academy; a program that has less than 3% acceptance rate and over 1000 hours of software development training. Every day we spent about 10 hours learning JavaScript, Python and a variety of other tools in order to become full-stack developers. Over half of each day was dedicated to pair programming small projects or coding challenges in order to apply what we had learned.
-
+<br></br>
 At the conclusion of the program, I developed three full stack applications from scratch using varying technologies. My most recent project, PhasedBook, is a full stack HTTPS-secured “pixel-perfect” implementation of Facebook where users can create posts, comments, likes, friends and messages. The coolest feature was the Live message chat which was handled using Socket.IO, a form of WebSockets, creating an open channel between the two users’ browsers and the server.
-
+<br></br>
 I am currently proficient in Javascript, Python, Express, Flask, SQL, PostgreSQL, SQLalchemy, HTML5, CCS3, and React / Redux. I have extensively used Git, Github, and AWS S3. In addition to my use of technologies, I have been involved in multiple AGILE environments developing applications through pair programming.
-
+<br></br>
 If you are looking for a passionate software engineer, send me an email or give me call and I would be happy to speak with you.
 
 ## Languages:
