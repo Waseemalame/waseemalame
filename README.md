@@ -19,15 +19,15 @@ Portfolio
 </p>
 
 <h2 align="center">About Me</h2>
-My name, Waseem, is easier to pronounce than it seems; it sounds like ‘what seems to be’ without the ‘t’. I am passionate about software technology rapidly advancing and requiring constant research. During my time at California State University, Bakersfield, I mastered Python, JavaScript, and React through projects like the Real-Time Voltage Tracking System, which combined embedded systems with dynamic web interfaces for data visualization. My internship at CSUB's Department of Electrical Engineering further honed my skills in IoT communications and device management using Python and MQTT. Transitioning into my professional career, I embraced .NET and C# with a focus on developing scalable microservices using Azure cloud technologies, which equipped me with robust tools for enterprise-level applications.
+I am committed to working for a company that empowers me to express my creativity, take initiative, and lead with curiosity to solve unique challenges, enabling me to become an integral member of the team.
 <br></br>
-I attended an intense 24-week coding program at App Academy; a program that has less than 3% acceptance rate and over 1000 hours of software development training. Every day, we spent about 10 hours learning Computer Science fundamentals. Over half of each day was dedicated to pair programming small projects or coding challenges in order to apply what we had learned.
+Over the last 7 years, I have acquired a degree in programming electronics, a certificate in Full-Stack Engineering, and a track record of high achievement across all my endeavors. My strongest skills lie in JavaScript, Python, and their associated libraries and frameworks, and in my most recent role, I consistently learned new tools and technologies, quickly adapting to evolving company initiatives to drive business growth and success.
 <br></br>
-At the conclusion of the program, I developed three full stack applications from scratch using varying technologies. My most recent project, PhasedBook, is a full stack HTTPS-secured “pixel-perfect” implementation of Facebook where users can create posts, comments, likes, friends and messages. The coolest feature was the Live message chat which was handled using Socket.IO, a form of WebSockets, creating an open channel between the two users’ browsers and the server.
+One of my greatest accomplishments was leading the development of a microservices architecture for a SaaS tool showcasing clients' ESG efforts. This platform enabled stakeholders in Healthcare and Hospitality to make informed decisions based on sustainability data and performance metrics. I trained software engineering interns and collaborated with cross-functional Agile teams to create efficient, maintainable solutions that integrated seamlessly into the system infrastructure.
 <br></br>
 My strongest skills exist in React.JS, C# .NET, SQL databases and queries, along with Cloud services in Azure and AWS. In addition to my use of technologies, I have been involved in multiple AGILE workflows developing applications through pair programming.
 <br></br>
-If you are looking for a passionate software engineer, send me an email or give me call and I would be happy to speak with you.
+I will naturally go above and beyond what is expected in my work. I will always embrace change positively, and I will ensure you see the greatest return on your investment.
 
 ## Languages:
 <p>
