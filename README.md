@@ -25,8 +25,6 @@ Over the last 7 years, I have acquired a degree in programming electronics, a ce
 <br></br>
 One of my greatest accomplishments was leading the development of a microservices architecture for a SaaS tool showcasing clients' ESG efforts. This platform enabled stakeholders in Healthcare and Hospitality to make informed decisions based on sustainability data and performance metrics. I trained software engineering interns and collaborated with cross-functional Agile teams to create efficient, maintainable solutions that integrated seamlessly into the system infrastructure.
 <br></br>
-My strongest skills exist in React.JS, C# .NET, SQL databases and queries, along with Cloud services in Azure and AWS. In addition to my use of technologies, I have been involved in multiple AGILE workflows developing applications through pair programming.
-<br></br>
 I will naturally go above and beyond what is expected in my work. I will always embrace change positively, and I will ensure you see the greatest return on your investment.
 
 ## Languages:
